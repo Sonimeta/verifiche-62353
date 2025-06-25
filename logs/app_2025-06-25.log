@@ -1,0 +1,723 @@
+2025-06-25 08:51:42,672 - INFO     - root            - Sistema di logging configurato.
+2025-06-25 08:51:42,673 - INFO     - root            - =====================================
+2025-06-25 08:51:42,674 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-25 08:51:42,674 - INFO     - root            - =====================================
+2025-06-25 08:51:42,679 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-25_08-51-42.db.bak
+2025-06-25 08:51:42,682 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-25 08:51:42,685 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-24_13-34-22.db.bak
+2025-06-25 08:51:42,687 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-25 08:51:42,688 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-25 08:51:43,379 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 08:51:43,384 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 08:51:43,399 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 08:51:48,005 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 08:51:49,314 - INFO     - root            - Sessione impostata per il tecnico 'ELSON META' con lo strumento 'FLUKE ESA 612'
+2025-06-25 08:54:11,868 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 08:54:17,477 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 08:55:29,262 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 08:55:29,264 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 08:55:29,265 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:05,388 - INFO     - root            - Sistema di logging configurato.
+2025-06-25 09:00:05,389 - INFO     - root            - =====================================
+2025-06-25 09:00:05,390 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-25 09:00:05,390 - INFO     - root            - =====================================
+2025-06-25 09:00:05,393 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-25_09-00-05.db.bak
+2025-06-25 09:00:05,395 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-25 09:00:05,396 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-24_13-37-49.db.bak
+2025-06-25 09:00:05,411 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-25 09:00:05,411 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-25 09:00:09,949 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:09,954 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:09,969 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:12,328 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:13,390 - INFO     - root            - Sessione impostata per il tecnico 'ELSON META' con lo strumento 'FLUKE ESA 612'
+2025-06-25 09:00:19,580 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:20,768 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:21,571 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:22,581 - WARNING  - root            - Avvio eliminazione massiva di 50 dispositivi per il cliente ID 2
+2025-06-25 09:00:22,582 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:22,598 - WARNING  - root            - Eliminati 50 dispositivi per il cliente ID 2.
+2025-06-25 09:00:23,392 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,675 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,677 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,695 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,696 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,712 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,714 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,730 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,732 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,751 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,753 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,770 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,772 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,790 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,792 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,809 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,811 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,827 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,829 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,844 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,845 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,861 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,862 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,879 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,881 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,896 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,898 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,914 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,916 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,932 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,934 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,950 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,952 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,969 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,971 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,987 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:41,989 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,004 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,005 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,021 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,022 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,038 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,039 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,056 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,058 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,073 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,074 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,091 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,092 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,108 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,110 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,127 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,128 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,143 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,145 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,160 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,162 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,179 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,181 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,196 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,198 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,214 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,216 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,232 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,234 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,250 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,252 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,269 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,271 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,286 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,287 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,303 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,304 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,323 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,325 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,342 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,344 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,363 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,364 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,380 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,381 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,397 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,398 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,415 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,417 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,434 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,436 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,452 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,454 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,470 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,472 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,487 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,489 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,505 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,506 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,521 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,522 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,540 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,541 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,557 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,559 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:42,582 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:45,207 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:46,336 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:55,630 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:00:56,358 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:01:08,457 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:01:08,459 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:01:08,461 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:01:10,683 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:01:25,209 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:01:36,633 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:01:37,234 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:01:43,986 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:06:48,283 - INFO     - root            - Sistema di logging configurato.
+2025-06-25 09:06:48,283 - INFO     - root            - =====================================
+2025-06-25 09:06:48,284 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-25 09:06:48,284 - INFO     - root            - =====================================
+2025-06-25 09:06:48,288 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-25_09-06-48.db.bak
+2025-06-25 09:06:48,289 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-25 09:06:48,291 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-24_13-45-54.db.bak
+2025-06-25 09:06:48,292 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-25 09:06:48,293 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-25 09:06:49,055 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:06:49,058 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:06:49,060 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:06:54,286 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:06:57,731 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:06:58,089 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:06:58,920 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:07:14,895 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:07:15,943 - INFO     - root            - Sessione impostata per il tecnico 'ELSON META' con lo strumento 'FLUKE ESA 612'
+2025-06-25 09:08:21,425 - INFO     - root            - Sistema di logging configurato.
+2025-06-25 09:08:21,426 - INFO     - root            - =====================================
+2025-06-25 09:08:21,427 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-25 09:08:21,427 - INFO     - root            - =====================================
+2025-06-25 09:08:21,430 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-25_09-08-21.db.bak
+2025-06-25 09:08:21,431 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-25 09:08:21,433 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-24_13-55-39.db.bak
+2025-06-25 09:08:21,434 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-25 09:08:21,435 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-25 09:08:21,907 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:08:21,911 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:08:21,913 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:08:24,189 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:08:25,172 - INFO     - root            - Sessione impostata per il tecnico 'ELSON META' con lo strumento 'FLUKE ESA 612'
+2025-06-25 09:08:27,595 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:10:26,314 - INFO     - root            - Sistema di logging configurato.
+2025-06-25 09:10:26,315 - INFO     - root            - =====================================
+2025-06-25 09:10:26,316 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-25 09:10:26,317 - INFO     - root            - =====================================
+2025-06-25 09:10:26,320 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-25_09-10-26.db.bak
+2025-06-25 09:10:26,321 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-25 09:10:26,322 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-24_15-20-32.db.bak
+2025-06-25 09:10:26,323 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-25 09:10:26,324 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-25 09:10:26,841 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:10:26,845 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:10:26,848 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:10:29,357 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:10:30,438 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:10:31,806 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:10:32,864 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:11:06,825 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:11:07,610 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:11:08,021 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:12:09,221 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:12:16,123 - WARNING  - root            - L'utente ha avviato la procedura di ripristino del database.
+2025-06-25 09:12:23,167 - INFO     - root            - Procedura di ripristino annullata dall'utente.
+2025-06-25 09:12:33,591 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:12:39,649 - INFO     - root            - Sessione impostata per il tecnico 'ELSON META' con lo strumento 'FLUKE ESA 612'
+2025-06-25 09:17:46,024 - INFO     - root            - Sistema di logging configurato.
+2025-06-25 09:17:46,024 - INFO     - root            - =====================================
+2025-06-25 09:17:46,025 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-25 09:17:46,025 - INFO     - root            - =====================================
+2025-06-25 09:17:46,028 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-25_09-17-46.db.bak
+2025-06-25 09:17:46,029 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-25 09:17:46,031 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-24_15-38-21.db.bak
+2025-06-25 09:17:46,033 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-25 09:17:46,033 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-25 09:17:46,104 - CRITICAL - root            - Errore critico durante l'avvio: Impossibile caricare i profili.
+Traceback (most recent call last):
+  File "d:\Desktop\PROGRAMMI\VERIFICHE ELETTRICHE V5\main.py", line 32, in <module>
+    window = MainWindow()
+  File "d:\Desktop\PROGRAMMI\VERIFICHE ELETTRICHE V5\app\ui\main_window.py", line 40, in __init__
+    self.create_right_panel()
+    ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "d:\Desktop\PROGRAMMI\VERIFICHE ELETTRICHE V5\app\ui\main_window.py", line 97, in create_right_panel
+    self.global_device_search_button.setIcon(QApplication.style().standardIcon(QStyle.SP_DialogFindButton))
+                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'PySide6.QtWidgets.QStyle' has no attribute 'SP_DialogFindButton'
+2025-06-25 09:18:47,434 - INFO     - root            - Sistema di logging configurato.
+2025-06-25 09:18:47,434 - INFO     - root            - =====================================
+2025-06-25 09:18:47,435 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-25 09:18:47,435 - INFO     - root            - =====================================
+2025-06-25 09:18:47,437 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-25_09-18-47.db.bak
+2025-06-25 09:18:47,438 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-25 09:18:47,439 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-24_15-56-11.db.bak
+2025-06-25 09:18:47,441 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-25 09:18:47,441 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-25 09:18:48,002 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:18:48,006 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:18:48,007 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:19:00,273 - INFO     - root            - Ricerca globale per il termine: tc118
+2025-06-25 09:19:00,274 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:19:00,275 - WARNING  - root            - Ricerca globale fallita per il termine: tc118
+2025-06-25 09:19:07,932 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:19:10,568 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:19:20,584 - INFO     - root            - Ricerca globale per il termine: tc108
+2025-06-25 09:19:20,585 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:19:20,586 - WARNING  - root            - Ricerca globale fallita per il termine: tc108
+2025-06-25 09:19:27,233 - INFO     - root            - Ricerca globale per il termine: TC108
+2025-06-25 09:19:27,234 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:19:27,241 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:19:27,243 - INFO     - root            - Dispositivo trovato: ID 136, Cliente ID 2
+2025-06-25 09:19:40,057 - INFO     - root            - Ricerca globale per il termine: TC108
+2025-06-25 09:19:40,058 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:19:40,059 - INFO     - root            - Dispositivo trovato: ID 136, Cliente ID 2
+2025-06-25 09:20:12,697 - INFO     - root            - Ricerca globale per il termine: TC108
+2025-06-25 09:20:12,698 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:12,699 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:12,700 - INFO     - root            - Dispositivo trovato: ID 136, Cliente ID 2
+2025-06-25 09:20:25,684 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:26,625 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:27,509 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:33,371 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:33,867 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:37,396 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:37,398 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:37,400 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:41,208 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:49,014 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:49,873 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:50,821 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:51,844 - WARNING  - root            - Avvio eliminazione massiva di 1 dispositivi per il cliente ID 1
+2025-06-25 09:20:51,844 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:51,865 - WARNING  - root            - Eliminati 1 dispositivi per il cliente ID 1.
+2025-06-25 09:20:53,242 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:54,277 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:55,477 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:56,479 - WARNING  - root            - Avvio eliminazione massiva di 50 dispositivi per il cliente ID 2
+2025-06-25 09:20:56,480 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:56,498 - WARNING  - root            - Eliminati 50 dispositivi per il cliente ID 2.
+2025-06-25 09:20:57,570 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:59,220 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:59,222 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:20:59,224 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:01,404 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:02,357 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:05,062 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:07,166 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:08,283 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,294 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,296 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,313 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,315 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,331 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,332 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,347 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,348 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,364 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,365 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,380 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,381 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,398 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,399 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,415 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,416 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,431 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,432 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,446 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,448 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,463 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,465 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,480 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,481 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,498 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,499 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,515 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,516 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,531 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,532 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,547 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,548 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,563 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,564 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,579 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,581 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,596 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,597 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,613 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,614 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,630 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,631 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,647 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,649 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,663 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,664 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,680 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,681 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,696 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,697 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,713 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,714 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,729 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,730 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,745 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,747 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,763 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,764 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,780 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,781 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,796 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,797 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,813 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,814 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,830 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,831 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,845 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,847 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,862 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,863 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,879 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,880 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,896 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,897 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,912 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,914 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,930 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,931 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,946 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,947 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,963 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,964 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,979 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,981 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,996 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:29,998 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,013 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,014 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,030 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,031 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,047 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,048 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,063 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,064 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,080 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,082 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,097 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,098 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,113 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,115 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:30,138 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:32,723 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:33,332 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:33,699 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:34,728 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:34,730 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:34,732 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:37,554 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:40,275 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:42,396 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:43,361 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:45,021 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:46,510 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:50,645 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:50,665 - INFO     - root            - Cliente ID 1 eliminato.
+2025-06-25 09:21:50,669 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:52,598 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:52,600 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:52,602 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:53,894 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:55,084 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:56,698 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:57,435 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:21:59,590 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:03,759 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:06,549 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:07,590 - WARNING  - root            - Avvio eliminazione massiva di 50 dispositivi per il cliente ID 2
+2025-06-25 09:22:07,591 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:07,606 - WARNING  - root            - Eliminati 50 dispositivi per il cliente ID 2.
+2025-06-25 09:22:08,995 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:11,399 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:11,414 - INFO     - root            - Cliente ID 2 eliminato.
+2025-06-25 09:22:11,416 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:38,137 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:38,140 - INFO     - root            - Cliente aggiunto: TERME DI COMANO.
+2025-06-25 09:22:38,155 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:40,121 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,517 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,518 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,535 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,536 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,551 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,553 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,569 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,570 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,587 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,588 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,605 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,606 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,623 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,624 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,639 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,640 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,654 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,655 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,670 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,671 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,687 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,688 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,703 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,704 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,719 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,720 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,735 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,736 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,752 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,754 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,770 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,771 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,787 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,788 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,803 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,804 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,819 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,821 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,836 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,837 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,853 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,854 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,869 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,871 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,886 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,887 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,903 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,904 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,919 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,921 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,937 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,938 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,953 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,954 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,969 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,970 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,987 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:22:59,988 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,003 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,004 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,021 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,022 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,039 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,040 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,055 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,057 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,071 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,072 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,086 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,087 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,103 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,104 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,119 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,120 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,136 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,137 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,152 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,154 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,170 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,171 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,186 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,187 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,203 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,204 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,220 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,221 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,237 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,238 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,253 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,254 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,269 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,270 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,286 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,287 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,304 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,305 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,319 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,320 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,335 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,337 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:00,363 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:03,266 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:04,487 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:04,489 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:04,491 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:23:06,912 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:06,120 - INFO     - root            - Sistema di logging configurato.
+2025-06-25 09:24:06,120 - INFO     - root            - =====================================
+2025-06-25 09:24:06,121 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-25 09:24:06,121 - INFO     - root            - =====================================
+2025-06-25 09:24:06,123 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-25_09-24-06.db.bak
+2025-06-25 09:24:06,124 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-25 09:24:06,125 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-24_15-58-26.db.bak
+2025-06-25 09:24:06,126 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-25 09:24:06,126 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-25 09:24:06,615 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:06,619 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:06,621 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:09,531 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:34,117 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:34,120 - INFO     - root            - Cliente aggiunto: TERME DI COMANO.
+2025-06-25 09:24:34,136 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:38,013 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,102 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,103 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,121 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,122 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,140 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,141 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,157 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,158 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,173 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,175 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,190 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,191 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,209 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,210 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,225 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,226 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,241 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,242 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,258 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,259 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,275 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,276 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,291 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,292 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,308 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,309 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,324 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,325 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,340 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,341 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,358 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,359 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,374 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,376 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,391 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,392 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,407 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,408 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,424 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,425 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,442 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,443 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,458 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,460 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,476 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,477 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,493 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,494 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,510 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,511 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,528 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,530 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,547 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,548 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,565 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,567 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,582 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,584 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,602 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,607 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,626 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,629 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,647 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,655 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,670 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,672 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,687 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,688 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,704 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,705 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,720 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,721 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,737 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,739 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,754 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,755 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,770 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,771 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,786 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,787 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,802 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,803 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,819 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,820 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,836 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,837 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,852 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,853 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,868 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,869 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,884 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,885 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,903 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,904 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,919 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,921 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,936 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,937 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,953 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,954 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:53,979 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:56,513 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:58,267 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:58,270 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:24:58,272 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:25:02,136 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:25:17,809 - INFO     - root            - Ricerca globale per il termine: TC108
+2025-06-25 09:25:17,809 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:25:17,811 - INFO     - root            - Dispositivo trovato: ID 35, Cliente ID 1
+2025-06-25 09:25:39,162 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:25:45,509 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:25:45,512 - INFO     - root            - Cliente aggiunto: TEST.
+2025-06-25 09:25:45,527 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:25:47,782 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,059 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,061 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,063 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,064 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,066 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,068 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,069 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,070 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,072 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,073 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,074 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,075 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,077 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,078 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,079 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,081 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,083 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,084 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,086 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,087 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,088 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,090 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,091 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,092 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,093 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,095 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,096 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,097 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,099 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,101 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,102 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,103 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,104 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,106 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,107 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,108 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,109 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,111 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,112 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,113 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,115 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,117 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,118 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,119 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,120 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,122 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,123 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,124 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,126 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,127 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:02,129 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:10,015 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:12,361 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:12,363 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:12,364 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:16,108 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:19,038 - INFO     - root            - Connessione al database stabilita.
+2025-06-25 09:26:36,344 - INFO     - root            - Connessione al database stabilita.

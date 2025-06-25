@@ -1,0 +1,767 @@
+2025-06-19 08:48:31,451 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 08:48:31,451 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_08-48-31.db.bak
+2025-06-19 08:48:31,451 - INFO     - root            - =====================================
+2025-06-19 08:48:31,451 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 08:48:31,451 - INFO     - root            - =====================================
+2025-06-19 08:48:31,575 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:48:32,250 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:49:56,014 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:10,861 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:10,865 - INFO     - root            - Cliente aggiunto: TERME DI COMANO.
+2025-06-19 08:50:10,882 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:12,093 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:32,825 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:32,831 - INFO     - root            - Dispositivo aggiunto: NO SN per cliente ID 1.
+2025-06-19 08:50:32,847 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:49,536 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:49,538 - INFO     - root            - Dispositivo aggiunto: NO SN per cliente ID 1.
+2025-06-19 08:50:49,558 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:55,576 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:56,191 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:56,659 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:57,179 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:58,501 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:50:59,354 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:51:00,897 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:51:01,477 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:51:02,864 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:51:03,287 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:57:34,220 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:57:34,223 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:57:49,339 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 08:57:49,343 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_08-57-49.db.bak
+2025-06-19 08:57:49,345 - INFO     - root            - =====================================
+2025-06-19 08:57:49,346 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 08:57:49,347 - INFO     - root            - =====================================
+2025-06-19 08:57:49,458 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:57:53,702 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:57:56,981 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:57:59,981 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:06,542 - INFO     - root            - Avvio importazione dal file: D:/Desktop/2025-04_TABELLA VERIFICHE TERME DI COMANO_2025.xlsx per il cliente ID: 1
+2025-06-19 08:58:22,456 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,458 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,461 - INFO     - root            - Dispositivo aggiunto: ST-7171 per cliente ID 1.
+2025-06-19 08:58:22,477 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,479 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,481 - INFO     - root            - Dispositivo aggiunto: 25590 per cliente ID 1.
+2025-06-19 08:58:22,496 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,497 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,500 - INFO     - root            - Dispositivo aggiunto: 06-11-915 per cliente ID 1.
+2025-06-19 08:58:22,512 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,513 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,516 - INFO     - root            - Dispositivo aggiunto: 0624B-1013 per cliente ID 1.
+2025-06-19 08:58:22,530 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,531 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,533 - INFO     - root            - Dispositivo aggiunto: N.P. per cliente ID 1.
+2025-06-19 08:58:22,549 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,551 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,553 - INFO     - root            - Dispositivo aggiunto: 160371/ASP per cliente ID 1.
+2025-06-19 08:58:22,567 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,569 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,572 - INFO     - root            - Dispositivo aggiunto: FN-84011599 per cliente ID 1.
+2025-06-19 08:58:22,584 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,586 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,589 - INFO     - root            - Dispositivo aggiunto: 0439 per cliente ID 1.
+2025-06-19 08:58:22,603 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,605 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,607 - INFO     - root            - Dispositivo aggiunto: 104005234 per cliente ID 1.
+2025-06-19 08:58:22,620 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,623 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,625 - INFO     - root            - Dispositivo aggiunto: 1198 per cliente ID 1.
+2025-06-19 08:58:22,640 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,641 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,644 - INFO     - root            - Dispositivo aggiunto: TP400033 per cliente ID 1.
+2025-06-19 08:58:22,657 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,659 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,661 - INFO     - root            - Dispositivo aggiunto: 2020020362 per cliente ID 1.
+2025-06-19 08:58:22,674 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,675 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,678 - INFO     - root            - Dispositivo aggiunto: EA011924 per cliente ID 1.
+2025-06-19 08:58:22,691 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,692 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,694 - INFO     - root            - Dispositivo aggiunto: R25C16B000090 per cliente ID 1.
+2025-06-19 08:58:22,707 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,709 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,711 - INFO     - root            - Dispositivo aggiunto: 0370197611 per cliente ID 1.
+2025-06-19 08:58:22,724 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,725 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,727 - INFO     - root            - Dispositivo aggiunto: 6430060P12014 per cliente ID 1.
+2025-06-19 08:58:22,740 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,742 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,744 - INFO     - root            - Dispositivo aggiunto: 239172 per cliente ID 1.
+2025-06-19 08:58:22,759 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,760 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,762 - INFO     - root            - Dispositivo aggiunto: UL8B2401A per cliente ID 1.
+2025-06-19 08:58:22,777 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,778 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,780 - INFO     - root            - Dispositivo aggiunto: 9914-0880-2725 per cliente ID 1.
+2025-06-19 08:58:22,794 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,796 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,798 - INFO     - root            - Dispositivo aggiunto: ERK PRS 000118-17 per cliente ID 1.
+2025-06-19 08:58:22,811 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,813 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,815 - INFO     - root            - Dispositivo aggiunto: 104005231 per cliente ID 1.
+2025-06-19 08:58:22,828 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,829 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,831 - INFO     - root            - Dispositivo aggiunto: 180000000001748 per cliente ID 1.
+2025-06-19 08:58:22,846 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,847 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,849 - INFO     - root            - Dispositivo aggiunto: 351 per cliente ID 1.
+2025-06-19 08:58:22,863 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,865 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,867 - INFO     - root            - Dispositivo aggiunto: 2021043284 per cliente ID 1.
+2025-06-19 08:58:22,880 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,881 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,883 - INFO     - root            - Dispositivo aggiunto: U1600003311 per cliente ID 1.
+2025-06-19 08:58:22,897 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,899 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,901 - INFO     - root            - Dispositivo aggiunto: G03815908 per cliente ID 1.
+2025-06-19 08:58:22,914 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,915 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,917 - INFO     - root            - Dispositivo aggiunto: 842A per cliente ID 1.
+2025-06-19 08:58:22,931 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,932 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,933 - INFO     - root            - Dispositivo aggiunto: 075-14405 per cliente ID 1.
+2025-06-19 08:58:22,948 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,950 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,952 - INFO     - root            - Dispositivo aggiunto: M-0113I per cliente ID 1.
+2025-06-19 08:58:22,966 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,967 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,968 - INFO     - root            - Dispositivo aggiunto: 1250465 per cliente ID 1.
+2025-06-19 08:58:22,982 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,983 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:22,984 - INFO     - root            - Dispositivo aggiunto: 2022/41585 per cliente ID 1.
+2025-06-19 08:58:22,999 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,000 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,002 - INFO     - root            - Dispositivo aggiunto: 30001902 per cliente ID 1.
+2025-06-19 08:58:23,016 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,018 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,022 - INFO     - root            - Dispositivo aggiunto: UBE06572 per cliente ID 1.
+2025-06-19 08:58:23,037 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,039 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,041 - INFO     - root            - Dispositivo aggiunto: 69700000673 per cliente ID 1.
+2025-06-19 08:58:23,056 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,057 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,058 - INFO     - root            - Dispositivo aggiunto: A2743 per cliente ID 1.
+2025-06-19 08:58:23,072 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,074 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,076 - INFO     - root            - Dispositivo aggiunto: 170903 per cliente ID 1.
+2025-06-19 08:58:23,089 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,090 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,092 - INFO     - root            - Dispositivo aggiunto: 042/2023 per cliente ID 1.
+2025-06-19 08:58:23,107 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,109 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,111 - INFO     - root            - Dispositivo aggiunto: 043/2023 per cliente ID 1.
+2025-06-19 08:58:23,124 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,125 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,127 - INFO     - root            - Dispositivo aggiunto: 157 per cliente ID 1.
+2025-06-19 08:58:23,141 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,142 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,144 - INFO     - root            - Dispositivo aggiunto: 180 per cliente ID 1.
+2025-06-19 08:58:23,157 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,159 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,161 - INFO     - root            - Dispositivo aggiunto: 1103400618 per cliente ID 1.
+2025-06-19 08:58:23,175 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,176 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,178 - INFO     - root            - Dispositivo aggiunto: PAFA102137 per cliente ID 1.
+2025-06-19 08:58:23,194 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,195 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,198 - INFO     - root            - Dispositivo aggiunto: BHZXL8903 per cliente ID 1.
+2025-06-19 08:58:23,211 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,212 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,214 - INFO     - root            - Dispositivo aggiunto: U1273 per cliente ID 1.
+2025-06-19 08:58:23,226 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,229 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,230 - INFO     - root            - Dispositivo aggiunto: 6880 per cliente ID 1.
+2025-06-19 08:58:23,243 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,244 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,246 - INFO     - root            - Dispositivo aggiunto: QRM2022101802 per cliente ID 1.
+2025-06-19 08:58:23,259 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,261 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,263 - INFO     - root            - Dispositivo aggiunto: QRM2023022101 per cliente ID 1.
+2025-06-19 08:58:23,280 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,281 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,284 - INFO     - root            - Dispositivo aggiunto: 0402-028 007 per cliente ID 1.
+2025-06-19 08:58:23,299 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,301 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,303 - INFO     - root            - Dispositivo aggiunto: 510474 per cliente ID 1.
+2025-06-19 08:58:23,316 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,318 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 08:58:23,320 - INFO     - root            - Dispositivo aggiunto: QRM2023030901 per cliente ID 1.
+2025-06-19 08:58:23,340 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:01:33,052 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:01:33,056 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:01:38,997 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 09:01:39,000 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_09-01-38.db.bak
+2025-06-19 09:01:39,003 - INFO     - root            - =====================================
+2025-06-19 09:01:39,004 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 09:01:39,005 - INFO     - root            - =====================================
+2025-06-19 09:01:39,072 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:01:39,906 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:01:42,125 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:01:43,603 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:01:57,455 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:01:57,458 - INFO     - root            - Cliente aggiunto: TEST AMS.
+2025-06-19 09:01:57,477 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:01:58,610 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:04,972 - INFO     - root            - Avvio importazione dal file: D:/Desktop/2025-04_TABELLA VERIFICHE TERME DI COMANO_2025.xlsx per il cliente ID: 2
+2025-06-19 09:02:17,299 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,301 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,303 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,305 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,307 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,309 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,311 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,314 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,315 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,317 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,318 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,321 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,323 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,325 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,326 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,328 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,329 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,330 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,333 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,334 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,336 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,338 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,340 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,342 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,344 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,346 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,347 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,348 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,350 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,352 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,354 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,356 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,358 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,359 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,361 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,363 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,364 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,366 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,367 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,369 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,370 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,374 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,375 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,376 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,378 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,379 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,382 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,383 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,384 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,386 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:17,388 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:25,601 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:29,291 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:30,306 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:38,222 - INFO     - root            - Avvio importazione dal file: D:/Desktop/2025-04_TABELLA VERIFICHE TERME DI COMANO_2025.xlsx per il cliente ID: 2
+2025-06-19 09:02:54,146 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,149 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,151 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,152 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,155 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,156 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,159 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,161 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,164 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,165 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,167 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,169 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,170 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,171 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,173 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,177 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,178 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,180 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,181 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,183 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,185 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,186 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,188 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,190 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,192 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,195 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,196 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,198 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,199 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,200 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,203 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,204 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,206 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,207 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,210 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,212 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,214 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,215 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,217 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,219 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,221 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,223 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,225 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,228 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,230 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,232 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,233 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,236 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,238 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,239 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:02:54,243 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:06:55,668 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:06:55,670 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:01,654 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 09:07:01,659 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_09-07-01.db.bak
+2025-06-19 09:07:01,661 - INFO     - root            - =====================================
+2025-06-19 09:07:01,661 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 09:07:01,662 - INFO     - root            - =====================================
+2025-06-19 09:07:01,729 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:02,316 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:03,988 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:05,106 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:12,111 - INFO     - root            - Avvio importazione dal file: D:/Desktop/2025-04_TABELLA VERIFICHE TERME DI COMANO_2025.xlsx per il cliente ID: 2
+2025-06-19 09:07:21,534 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,538 - INFO     - root            - Dispositivo aggiunto:  per cliente ID 2.
+2025-06-19 09:07:21,554 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,558 - INFO     - root            - Dispositivo aggiunto:  per cliente ID 2.
+2025-06-19 09:07:21,573 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,577 - INFO     - root            - Dispositivo aggiunto: ST-7171 per cliente ID 2.
+2025-06-19 09:07:21,590 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,594 - INFO     - root            - Dispositivo aggiunto: 25590 per cliente ID 2.
+2025-06-19 09:07:21,610 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,613 - INFO     - root            - Dispositivo aggiunto:  per cliente ID 2.
+2025-06-19 09:07:21,628 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,630 - INFO     - root            - Dispositivo aggiunto:  per cliente ID 2.
+2025-06-19 09:07:21,646 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,648 - INFO     - root            - Dispositivo aggiunto:  per cliente ID 2.
+2025-06-19 09:07:21,662 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,664 - INFO     - root            - Dispositivo aggiunto:  per cliente ID 2.
+2025-06-19 09:07:21,678 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,681 - INFO     - root            - Dispositivo aggiunto: 06-11-915 per cliente ID 2.
+2025-06-19 09:07:21,697 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,699 - INFO     - root            - Dispositivo aggiunto: 0624B-1013 per cliente ID 2.
+2025-06-19 09:07:21,713 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,715 - INFO     - root            - Dispositivo aggiunto: N.P. per cliente ID 2.
+2025-06-19 09:07:21,729 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,732 - INFO     - root            - Dispositivo aggiunto:  per cliente ID 2.
+2025-06-19 09:07:21,745 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,747 - INFO     - root            - Dispositivo aggiunto: 160371/ASP per cliente ID 2.
+2025-06-19 09:07:21,761 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,764 - INFO     - root            - Dispositivo aggiunto: FN-84011599 per cliente ID 2.
+2025-06-19 09:07:21,777 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,780 - INFO     - root            - Dispositivo aggiunto: 0439 per cliente ID 2.
+2025-06-19 09:07:21,795 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,798 - INFO     - root            - Dispositivo aggiunto: 104005234 per cliente ID 2.
+2025-06-19 09:07:21,813 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,816 - INFO     - root            - Dispositivo aggiunto: 1198 per cliente ID 2.
+2025-06-19 09:07:21,829 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,832 - INFO     - root            - Dispositivo aggiunto: TP400033 per cliente ID 2.
+2025-06-19 09:07:21,847 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,849 - INFO     - root            - Dispositivo aggiunto: 2020020362 per cliente ID 2.
+2025-06-19 09:07:21,863 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,866 - INFO     - root            - Dispositivo aggiunto: EA011924 per cliente ID 2.
+2025-06-19 09:07:21,888 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,892 - INFO     - root            - Dispositivo aggiunto: R25C16B000090 per cliente ID 2.
+2025-06-19 09:07:21,906 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,909 - INFO     - root            - Dispositivo aggiunto: 0370197611 per cliente ID 2.
+2025-06-19 09:07:21,923 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,926 - INFO     - root            - Dispositivo aggiunto: 6430060P12014 per cliente ID 2.
+2025-06-19 09:07:21,939 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,942 - INFO     - root            - Dispositivo aggiunto: 239172 per cliente ID 2.
+2025-06-19 09:07:21,957 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,960 - INFO     - root            - Dispositivo aggiunto: UL8B2401A per cliente ID 2.
+2025-06-19 09:07:21,974 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,976 - INFO     - root            - Dispositivo aggiunto: 9914-0880-2725 per cliente ID 2.
+2025-06-19 09:07:21,992 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:21,994 - INFO     - root            - Dispositivo aggiunto: ERK PRS 000118-17 per cliente ID 2.
+2025-06-19 09:07:22,009 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,011 - INFO     - root            - Dispositivo aggiunto: 104005231 per cliente ID 2.
+2025-06-19 09:07:22,026 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,029 - INFO     - root            - Dispositivo aggiunto: 180000000001748 per cliente ID 2.
+2025-06-19 09:07:22,044 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,046 - INFO     - root            - Dispositivo aggiunto: 351 per cliente ID 2.
+2025-06-19 09:07:22,061 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,063 - INFO     - root            - Dispositivo aggiunto: 2021043284 per cliente ID 2.
+2025-06-19 09:07:22,078 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,081 - INFO     - root            - Dispositivo aggiunto: U1600003311 per cliente ID 2.
+2025-06-19 09:07:22,095 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,097 - INFO     - root            - Dispositivo aggiunto: G03815908 per cliente ID 2.
+2025-06-19 09:07:22,111 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,115 - INFO     - root            - Dispositivo aggiunto: 842A per cliente ID 2.
+2025-06-19 09:07:22,129 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,131 - INFO     - root            - Dispositivo aggiunto: 075-14405 per cliente ID 2.
+2025-06-19 09:07:22,146 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,148 - INFO     - root            - Dispositivo aggiunto: M-0113I per cliente ID 2.
+2025-06-19 09:07:22,164 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,166 - INFO     - root            - Dispositivo aggiunto: 1250465 per cliente ID 2.
+2025-06-19 09:07:22,179 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,182 - INFO     - root            - Dispositivo aggiunto: 2022/41585 per cliente ID 2.
+2025-06-19 09:07:22,195 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,197 - INFO     - root            - Dispositivo aggiunto: 30001902 per cliente ID 2.
+2025-06-19 09:07:22,211 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,214 - INFO     - root            - Dispositivo aggiunto: UBE06572 per cliente ID 2.
+2025-06-19 09:07:22,229 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,232 - INFO     - root            - Dispositivo aggiunto: 69700000673 per cliente ID 2.
+2025-06-19 09:07:22,245 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,248 - INFO     - root            - Dispositivo aggiunto: A2743 per cliente ID 2.
+2025-06-19 09:07:22,262 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,264 - INFO     - root            - Dispositivo aggiunto: 170903 per cliente ID 2.
+2025-06-19 09:07:22,278 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,280 - INFO     - root            - Dispositivo aggiunto: 042/2023 per cliente ID 2.
+2025-06-19 09:07:22,294 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,297 - INFO     - root            - Dispositivo aggiunto: 043/2023 per cliente ID 2.
+2025-06-19 09:07:22,311 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,313 - INFO     - root            - Dispositivo aggiunto: 157 per cliente ID 2.
+2025-06-19 09:07:22,329 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,331 - INFO     - root            - Dispositivo aggiunto: 180 per cliente ID 2.
+2025-06-19 09:07:22,345 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,347 - INFO     - root            - Dispositivo aggiunto: 1103400618 per cliente ID 2.
+2025-06-19 09:07:22,361 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,363 - INFO     - root            - Dispositivo aggiunto: PAFA102137 per cliente ID 2.
+2025-06-19 09:07:22,378 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,381 - INFO     - root            - Dispositivo aggiunto: BHZXL8903 per cliente ID 2.
+2025-06-19 09:07:22,396 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,397 - INFO     - root            - Dispositivo aggiunto: U1273 per cliente ID 2.
+2025-06-19 09:07:22,411 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,413 - INFO     - root            - Dispositivo aggiunto: 6880 per cliente ID 2.
+2025-06-19 09:07:22,428 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,429 - INFO     - root            - Dispositivo aggiunto: QRM2022101802 per cliente ID 2.
+2025-06-19 09:07:22,445 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,447 - INFO     - root            - Dispositivo aggiunto: QRM2023022101 per cliente ID 2.
+2025-06-19 09:07:22,462 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,464 - INFO     - root            - Dispositivo aggiunto: 0402-028 007 per cliente ID 2.
+2025-06-19 09:07:22,480 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,482 - INFO     - root            - Dispositivo aggiunto: 510474 per cliente ID 2.
+2025-06-19 09:07:22,498 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,500 - INFO     - root            - Dispositivo aggiunto:  per cliente ID 2.
+2025-06-19 09:07:22,514 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:22,516 - INFO     - root            - Dispositivo aggiunto: QRM2023030901 per cliente ID 2.
+2025-06-19 09:07:22,531 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:27,242 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:43,532 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:45,033 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:46,461 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:48,106 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:49,023 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:49,763 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:50,388 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:50,798 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:51,741 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:53,601 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:54,450 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:54,851 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:55,629 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:56,839 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:57,283 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:58,062 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:58,667 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:58,971 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:07:59,326 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:08:00,089 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:13:12,698 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:13:12,700 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:13:23,481 - WARNING  - root            - L'utente ha avviato la procedura di ripristino del database.
+2025-06-19 09:13:26,069 - INFO     - root            - Procedura di ripristino annullata dall'utente.
+2025-06-19 09:13:33,456 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:29:38,757 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 09:29:38,760 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_09-29-38.db.bak
+2025-06-19 09:29:38,762 - INFO     - root            - =====================================
+2025-06-19 09:29:38,763 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 09:29:38,765 - INFO     - root            - =====================================
+2025-06-19 09:29:38,838 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:29:39,683 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:35:35,598 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 09:35:35,601 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_09-35-35.db.bak
+2025-06-19 09:35:35,604 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 09:35:35,613 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-18_14-57-06.db.bak
+2025-06-19 09:35:35,614 - INFO     - root            - =====================================
+2025-06-19 09:35:35,615 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 09:35:35,616 - INFO     - root            - =====================================
+2025-06-19 09:35:35,674 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:35:36,255 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:35:38,169 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:35:50,281 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:37:51,006 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:37:51,008 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:37:54,979 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 09:37:54,983 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_09-37-54.db.bak
+2025-06-19 09:37:54,985 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 09:37:54,988 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-18_14-58-58.db.bak
+2025-06-19 09:37:54,989 - INFO     - root            - =====================================
+2025-06-19 09:37:54,990 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 09:37:54,990 - INFO     - root            - =====================================
+2025-06-19 09:37:55,057 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:37:55,563 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:37:57,222 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 09:37:58,530 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:07:14,952 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:07:14,952 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-07-14.db.bak
+2025-06-19 16:07:14,960 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:07:14,960 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-18_16-59-59.db.bak
+2025-06-19 16:07:14,960 - INFO     - root            - =====================================
+2025-06-19 16:07:14,960 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:07:14,969 - INFO     - root            - =====================================
+2025-06-19 16:07:15,164 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:07:16,212 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:07:23,456 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:07:25,945 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:07:31,500 - INFO     - root            - Avvio esportazione verifiche per customer ID: 2
+2025-06-19 16:07:31,500 - ERROR    - root            - Errore durante l'esportazione delle verifiche.
+Traceback (most recent call last):
+  File "d:\Desktop\PROGRAMMI\VERIFICHE ELETTRICHE V4\app\workers\export_worker.py", line 21, in run
+    data = database.get_all_verifications_for_customer(self.customer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'database' has no attribute 'get_all_verifications_for_customer'
+2025-06-19 16:09:59,150 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:09:59,161 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:10:10,053 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:10:10,056 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-10-10.db.bak
+2025-06-19 16:10:10,059 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:10:10,060 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-18_17-01-10.db.bak
+2025-06-19 16:10:10,061 - INFO     - root            - =====================================
+2025-06-19 16:10:10,062 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:10:10,063 - INFO     - root            - =====================================
+2025-06-19 16:10:10,139 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:10:10,902 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:10:12,536 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:10:14,233 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:10:20,077 - INFO     - root            - Avvio esportazione verifiche per customer ID: 1
+2025-06-19 16:10:20,077 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:10:20,087 - WARNING  - root            - Nessuna verifica trovata per il cliente selezionato.
+2025-06-19 16:10:24,319 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:10:55,099 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:10:55,101 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:11:21,249 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:11:21,249 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-11-21.db.bak
+2025-06-19 16:11:21,257 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:11:21,258 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-18_17-03-20.db.bak
+2025-06-19 16:11:21,259 - INFO     - root            - =====================================
+2025-06-19 16:11:21,260 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:11:21,261 - INFO     - root            - =====================================
+2025-06-19 16:11:21,324 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:11:21,811 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:13:34,298 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:13:34,298 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-13-34.db.bak
+2025-06-19 16:13:34,298 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:13:34,298 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_08-48-31.db.bak
+2025-06-19 16:13:34,308 - INFO     - root            - =====================================
+2025-06-19 16:13:34,308 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:13:34,308 - INFO     - root            - =====================================
+2025-06-19 16:13:34,369 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:13:34,829 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:13:39,751 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:13:48,621 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:14:18,505 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:14:19,358 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:14:19,879 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:27:21,887 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:27:21,896 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:27:27,157 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:27:27,157 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-27-27.db.bak
+2025-06-19 16:27:27,157 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:27:27,163 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_08-57-49.db.bak
+2025-06-19 16:27:27,164 - INFO     - root            - =====================================
+2025-06-19 16:27:27,165 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:27:27,167 - INFO     - root            - =====================================
+2025-06-19 16:27:27,216 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:27:27,948 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:27:29,691 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:27:46,246 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:27:46,246 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:27:58,610 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:27:58,620 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-27-58.db.bak
+2025-06-19 16:27:58,620 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:27:58,625 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_09-01-38.db.bak
+2025-06-19 16:27:58,625 - INFO     - root            - =====================================
+2025-06-19 16:27:58,626 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:27:58,627 - INFO     - root            - =====================================
+2025-06-19 16:27:58,682 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:27:59,097 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:00,459 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:04,761 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:26,303 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:27,314 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:27,674 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:27,985 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:29,173 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:29,468 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:29,945 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:30,401 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:36,489 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:28:36,498 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:32:21,069 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:32:21,075 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-32-21.db.bak
+2025-06-19 16:32:21,077 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:32:21,079 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_09-07-01.db.bak
+2025-06-19 16:32:21,081 - INFO     - root            - =====================================
+2025-06-19 16:32:21,081 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:32:21,082 - INFO     - root            - =====================================
+2025-06-19 16:32:21,143 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:32:21,600 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:32:41,098 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:33:01,296 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:33:03,566 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:33:04,327 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:33:15,751 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:33:16,490 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:33:23,072 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:33:23,697 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:33:38,636 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:33:38,636 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:40:10,842 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:40:10,852 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-40-10.db.bak
+2025-06-19 16:40:10,852 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:40:10,858 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_09-29-38.db.bak
+2025-06-19 16:40:10,858 - INFO     - root            - =====================================
+2025-06-19 16:40:10,860 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:40:10,861 - INFO     - root            - =====================================
+2025-06-19 16:40:10,925 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:40:11,404 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:40:15,327 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:41:30,505 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:41:30,507 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-41-30.db.bak
+2025-06-19 16:41:30,510 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:41:30,511 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_09-35-35.db.bak
+2025-06-19 16:41:30,513 - INFO     - root            - =====================================
+2025-06-19 16:41:30,513 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:41:30,514 - INFO     - root            - =====================================
+2025-06-19 16:41:30,571 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:41:31,047 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:41:35,456 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:42:20,874 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:42:20,874 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-42-20.db.bak
+2025-06-19 16:42:20,874 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:42:20,884 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_09-37-54.db.bak
+2025-06-19 16:42:20,884 - INFO     - root            - =====================================
+2025-06-19 16:42:20,886 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:42:20,886 - INFO     - root            - =====================================
+2025-06-19 16:42:20,992 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:42:21,465 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:42:22,886 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:42:24,209 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:42:27,566 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:42:28,407 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:42:34,101 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:42:35,353 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:44:49,588 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:44:49,595 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-44-49.db.bak
+2025-06-19 16:44:49,595 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:44:49,595 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_16-07-14.db.bak
+2025-06-19 16:44:49,595 - INFO     - root            - =====================================
+2025-06-19 16:44:49,595 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:44:49,603 - INFO     - root            - =====================================
+2025-06-19 16:44:49,670 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:44:50,225 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:45:58,812 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:45:58,812 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-45-58.db.bak
+2025-06-19 16:45:58,812 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:45:58,812 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_16-10-10.db.bak
+2025-06-19 16:45:58,819 - INFO     - root            - =====================================
+2025-06-19 16:45:58,819 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:45:58,820 - INFO     - root            - =====================================
+2025-06-19 16:45:58,903 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:45:59,683 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:46:33,863 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:46:33,863 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-46-33.db.bak
+2025-06-19 16:46:33,863 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:46:33,863 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_16-11-21.db.bak
+2025-06-19 16:46:33,874 - INFO     - root            - =====================================
+2025-06-19 16:46:33,874 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:46:33,876 - INFO     - root            - =====================================
+2025-06-19 16:46:33,912 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-19 16:46:33,943 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:46:34,501 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:49:19,302 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:49:19,306 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-49-19.db.bak
+2025-06-19 16:49:19,308 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:49:19,310 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_16-13-34.db.bak
+2025-06-19 16:49:19,311 - INFO     - root            - =====================================
+2025-06-19 16:49:19,312 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:49:19,313 - INFO     - root            - =====================================
+2025-06-19 16:49:19,348 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-19 16:49:19,374 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:49:19,406 - INFO     - root            - Popolamento selettore con i seguenti profili: []
+2025-06-19 16:49:19,853 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:50:18,208 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:50:18,208 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-50-18.db.bak
+2025-06-19 16:50:18,208 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:50:18,218 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_16-27-27.db.bak
+2025-06-19 16:50:18,220 - INFO     - root            - =====================================
+2025-06-19 16:50:18,221 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:50:18,221 - INFO     - root            - =====================================
+2025-06-19 16:50:18,259 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-19 16:50:18,288 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:50:18,319 - INFO     - root            - Popolamento selettore con i seguenti profili: []
+2025-06-19 16:50:18,782 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:56:19,896 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 16:56:19,896 - INFO     - root            - =====================================
+2025-06-19 16:56:19,896 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 16:56:19,897 - INFO     - root            - =====================================
+2025-06-19 16:56:19,900 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_16-56-19.db.bak
+2025-06-19 16:56:19,903 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 16:56:19,904 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_16-27-58.db.bak
+2025-06-19 16:56:19,906 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-19 16:56:19,908 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-19 16:56:19,944 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:56:19,974 - INFO     - root            - Popolamento selettore con i seguenti profili: []
+2025-06-19 16:56:20,452 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:57:44,438 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:57:47,561 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:57:47,561 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 16:57:51,257 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:00:28,152 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 17:00:28,152 - INFO     - root            - =====================================
+2025-06-19 17:00:28,152 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 17:00:28,162 - INFO     - root            - =====================================
+2025-06-19 17:00:28,162 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_17-00-28.db.bak
+2025-06-19 17:00:28,162 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 17:00:28,169 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_16-32-21.db.bak
+2025-06-19 17:00:28,171 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-19 17:00:28,172 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-19 17:00:28,195 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:00:28,225 - INFO     - root            - Popolamento selettore con i seguenti profili: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-19 17:00:28,694 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:00:38,893 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:02:14,192 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:02:17,462 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:02:25,774 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:02:25,775 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:03:37,142 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 17:03:37,142 - INFO     - root            - =====================================
+2025-06-19 17:03:37,143 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 17:03:37,144 - INFO     - root            - =====================================
+2025-06-19 17:03:37,146 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_17-03-37.db.bak
+2025-06-19 17:03:37,148 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 17:03:37,149 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_16-40-10.db.bak
+2025-06-19 17:03:37,152 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-19 17:03:37,153 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-19 17:03:37,184 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:03:37,214 - INFO     - root            - Popolamento selettore con i seguenti profili: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-19 17:03:37,676 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:03:41,243 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:03:46,995 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:03:47,004 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:05:44,311 - INFO     - root            - Sistema di logging configurato.
+2025-06-19 17:05:44,311 - INFO     - root            - =====================================
+2025-06-19 17:05:44,311 - INFO     - root            - ||   Avvio Safety Test Manager     ||
+2025-06-19 17:05:44,311 - INFO     - root            - =====================================
+2025-06-19 17:05:44,320 - INFO     - root            - Backup del database creato con successo: backups\verifiche_backup_2025-06-19_17-05-44.db.bak
+2025-06-19 17:05:44,323 - INFO     - root            - Trovati 11 backup. Rimuovendo i 1 più vecchi.
+2025-06-19 17:05:44,325 - INFO     - root            - Vecchio backup rimosso: backups\verifiche_backup_2025-06-19_16-41-30.db.bak
+2025-06-19 17:05:44,326 - INFO     - root            - Profili caricati con successo dal file: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-19 17:05:44,327 - INFO     - root            - Profili di verifica caricati con successo.
+2025-06-19 17:05:44,354 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:05:44,385 - INFO     - root            - Popolamento selettore con i seguenti profili: ['Classe 1', 'Classe 2', 'Batteria']
+2025-06-19 17:05:44,845 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:05:48,256 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:05:54,108 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:05:54,110 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:06:14,096 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:06:15,877 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:06:15,877 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:06:18,258 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:06:19,611 - INFO     - root            - Connessione al database stabilita.
+2025-06-19 17:06:20,904 - INFO     - root            - Connessione al database stabilita.

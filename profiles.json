@@ -1,0 +1,158 @@
+[
+  {
+    "profile_key": "Classe 1",
+    "profile_name": "IEC 62353 Metodo Diretto - Classe 1",
+    "tests": [
+      {
+        "name": "Tensione alimentazione",
+        "parameter": "Da Fase a Neutro",
+        "limits": {
+          "::ST": { "unit": "V" }
+        },
+        "is_applied_part_test": false
+      },
+      {
+        "name": "Tensione alimentazione",
+        "parameter": "Da Neutro a Terra",
+        "limits": {
+          "::ST": { "unit": "V" }
+        },
+        "is_applied_part_test": false
+      },
+      {
+        "name": "Tensione alimentazione",
+        "parameter": "Da Fase a Terra",
+        "limits": {
+          "::ST": { "unit": "V" }
+        },
+        "is_applied_part_test": false
+      },
+      {
+        "name": "Resistenza conduttore di terra",
+        "parameter": "",
+        "limits": {
+          "::ST": { "unit": "Ohm", "high_value": 0.3 }
+        },
+        "is_applied_part_test": false
+      },
+      {
+        "name": "Corrente dispersione diretta dispositivo",
+        "parameter": "Polarità diretta",
+        "limits": {
+          "::ST": { "unit": "uA", "high_value": 500 }
+        },
+        "is_applied_part_test": false
+      },
+      {
+        "name": "Corrente dispersione diretta dispositivo",
+        "parameter": "Polarità inversa",
+        "limits": {
+          "::ST": { "unit": "uA", "high_value": 500 }
+        },
+        "is_applied_part_test": false
+      },
+      {
+        "name": "Corrente dispersione diretta P.A.",
+        "parameter": "Condizioni normali",
+        "is_applied_part_test": true,
+        "limits": {
+          "::B": { "unit": "uA" },
+          "::BF": { "unit": "uA", "high_value": 5000 },
+          "::CF": { "unit": "uA", "high_value": 50 }
+        }
+      },
+      {
+        "name": "Corrente dispersione diretta P.A.",
+        "parameter": "Condizioni normali, polarità inversa",
+        "is_applied_part_test": true,
+        "limits": {
+          "::B": { "unit": "uA" },
+          "::BF": { "unit": "uA", "high_value": 5000 },
+          "::CF": { "unit": "uA", "high_value": 50 }
+        }
+      }
+    ]
+  },
+  {
+    "profile_key": "Classe 2",
+    "profile_name": "IEC 62353 Metodo Diretto - Classe 2",
+    "tests": [
+      {
+        "name": "Tensione alimentazione",
+        "parameter": "Da Fase a Neutro",
+        "limits": {
+          "::ST": { "unit": "V" }
+        },
+        "is_applied_part_test": false
+      },
+      {
+        "name": "Tensione alimentazione",
+        "parameter": "Da Neutro a Terra",
+        "limits": {
+          "::ST": { "unit": "V" }
+        },
+        "is_applied_part_test": false
+      },
+      {
+        "name": "Tensione alimentazione",
+        "parameter": "Da Fase a Terra",
+        "limits": {
+          "::ST": { "unit": "V" }
+        },
+        "is_applied_part_test": false
+      },
+      {
+        "name": "Corrente dispersione diretta dispositivo",
+        "parameter": "Polarità diretta",
+        "limits": {
+          "::ST": { "unit": "uA", "high_value": 100 }
+        },
+        "is_applied_part_test": false
+      },
+      {
+        "name": "Corrente dispersione diretta dispositivo",
+        "parameter": "Polarità inversa",
+        "limits": {
+          "::ST": { "unit": "uA", "high_value": 100 }
+        },
+        "is_applied_part_test": false
+      },
+      {
+        "name": "Corrente dispersione diretta P.A.",
+        "parameter": "Condizioni normali",
+        "is_applied_part_test": true,
+        "limits": {
+          "::B": { "unit": "uA" },
+          "::BF": { "unit": "uA", "high_value": 5000 },
+          "::CF": { "unit": "uA", "high_value": 50 }
+        }
+      },
+      {
+        "name": "Corrente dispersione diretta P.A.",
+        "parameter": "Condizioni normali, polarità inversa",
+        "is_applied_part_test": true,
+        "limits": {
+          "::B": { "unit": "uA" },
+          "::BF": { "unit": "uA", "high_value": 5000 },
+          "::CF": { "unit": "uA", "high_value": 50 }
+        }
+      }
+    ]
+  },
+  {
+    "profile_key": "Batteria",
+    "profile_name": "IEC 62353 Metodo diretto - Batteria",
+    "tests": [
+      {
+        "name": "Corrente dispersione diretta P.A.",
+        "parameter": "Condizioni normali",
+        "is_applied_part_test": true,
+        "limits": {
+          "::B": { "unit": "uA" },
+          "::BF": { "unit": "uA", "high_value": 5000 },
+          "::CF": { "unit": "uA", "high_value": 50 }
+        }
+      }
+    ]
+  }
+]
