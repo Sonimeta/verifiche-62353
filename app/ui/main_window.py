@@ -25,6 +25,8 @@ class MainWindow(QMainWindow):
         self.setGeometry(100, 100, 1280, 720)
         self.settings = QSettings("MyCompany", "SafetyTester")
         self.logo_path = self.settings.value("logo_path", "")
+        self.theme = self.settings.value("theme", "light")
+        self.apply_theme(self.theme)
         
         self.current_mti_info = None
         self.current_technician_name = ""
@@ -42,6 +44,13 @@ class MainWindow(QMainWindow):
         self.load_customers()
         self.customer_selector.currentIndexChanged.connect(self.load_devices_for_customer)
         self.load_control_panel_data()
+
+    def apply_theme(self, theme: str):
+        if theme == "dark":
+            QApplication.instance().setStyleSheet(config.STYLESHEET_DARK)
+        else:
+            QApplication.instance().setStyleSheet(config.STYLESHEET)
+        self.settings.setValue("theme", theme)
 
     def create_left_panel(self):
         left_panel = QWidget()
@@ -180,13 +189,43 @@ class MainWindow(QMainWindow):
         quit_action = QAction("Esci", self)
         quit_action.triggered.connect(self.close)
         file_menu.addAction(quit_action)
-
+        
         logo_action = QAction("Imposta Logo Azienda...", self)
         logo_action.triggered.connect(self.set_company_logo)
         settings_menu.addAction(logo_action)
         mti_manager_action = QAction("Gestisci Strumenti di Misura...", self)
         mti_manager_action.triggered.connect(self.open_instrument_manager)
         settings_menu.addAction(mti_manager_action)
+
+        # Tema chiaro/scuro
+        settings_menu.addSeparator()
+        light_theme_action = QAction("Tema Chiaro", self)
+        light_theme_action.setCheckable(True)
+        dark_theme_action = QAction("Tema Scuro", self)
+        dark_theme_action.setCheckable(True)
+
+        # Stato iniziale
+        if self.theme == "dark":
+            dark_theme_action.setChecked(True)
+        else:
+            light_theme_action.setChecked(True)
+
+        def set_light():
+            light_theme_action.setChecked(True)
+            dark_theme_action.setChecked(False)
+            self.theme = "light"
+            self.apply_theme("light")
+
+        def set_dark():
+            dark_theme_action.setChecked(True)
+            light_theme_action.setChecked(False)
+            self.theme = "dark"
+            self.apply_theme("dark")
+
+        light_theme_action.triggered.connect(set_light)
+        dark_theme_action.triggered.connect(set_dark)
+        settings_menu.addAction(light_theme_action)
+        settings_menu.addAction(dark_theme_action)
     
     def load_control_panel_data(self):
         self.statusBar().showMessage("Aggiornamento dati dashboard...")

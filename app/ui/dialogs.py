@@ -284,11 +284,12 @@ class DbManagerDialog(QDialog):
         super().__init__(parent)
         self.main_window = parent
         self.setWindowTitle("Gestione Anagrafiche")
-    
+        self.setMinimumSize(1080, 720)
+        
         main_layout = QVBoxLayout(self)
         main_layout.setContentsMargins(15, 15, 15, 15)
         main_layout.setSpacing(10)
-
+        
         # Layout per i pulsanti di azione in alto
         top_actions_layout = QHBoxLayout()
         self.import_button = QPushButton("Importa Dispositivi da CSV/Excel")
@@ -296,15 +297,15 @@ class DbManagerDialog(QDialog):
         self.import_button.setIcon(QApplication.style().standardIcon(QStyle.SP_ArrowUp))
         self.import_button.clicked.connect(self.import_from_file)
         top_actions_layout.addWidget(self.import_button)
-
-
+        
+        
         # --- NUOVO PULSANTE IMPORTA DA ARCHIVIO ---
         self.import_stm_button = QPushButton("Importa da Archivio (.stm)...")
         self.import_stm_button.setIcon(QApplication.style().standardIcon(QStyle.SP_ArrowDown))
         self.import_stm_button.clicked.connect(self.import_from_stm)
         top_actions_layout.addWidget(self.import_stm_button)
         # ---
-
+        
         # MANTENIAMO SOLO IL PULSANTE DI ESPORTAZIONE PER DATA
         self.export_daily_button = QPushButton("Esporta Verifiche per Data...")
         self.export_daily_button.setIcon(QApplication.style().standardIcon(QStyle.SP_DialogSaveButton))
@@ -313,10 +314,10 @@ class DbManagerDialog(QDialog):
         
         top_actions_layout.addStretch()
         main_layout.addLayout(top_actions_layout)
-
+        
         top_layout = QHBoxLayout()
         top_layout.setSpacing(10)
-
+        
         customers_group = QGroupBox("Clienti")
         cust_layout = QVBoxLayout()
         self.customer_search_box = QLineEdit()
@@ -326,6 +327,7 @@ class DbManagerDialog(QDialog):
         self.customer_table.setHorizontalHeaderLabels(["ID", "Nome", "Indirizzo", "Telefono", "Email"])
         self.customer_table.setSelectionBehavior(QAbstractItemView.SelectRows)
         self.customer_table.setEditTriggers(QAbstractItemView.NoEditTriggers)
+        self.customer_table.setAlternatingRowColors(True)
         self.customer_table.itemSelectionChanged.connect(self.customer_selected)
         header_clienti = self.customer_table.horizontalHeader()
         header_clienti.setSectionResizeMode(0, QHeaderView.ResizeMode.ResizeToContents) # ID
@@ -350,7 +352,7 @@ class DbManagerDialog(QDialog):
         cust_layout.addLayout(cust_buttons_layout)
         customers_group.setLayout(cust_layout)
         top_layout.addWidget(customers_group, 1)
-
+        
         self.devices_group = QGroupBox("Dispositivi")
         dev_layout = QVBoxLayout()
         self.device_search_box = QLineEdit()
@@ -360,6 +362,7 @@ class DbManagerDialog(QDialog):
         self.device_table.setHorizontalHeaderLabels(["ID", "Descrizione", "S/N", "Costruttore", "Modello", "Inv. Cliente", "Inv. AMS"])
         self.device_table.setSelectionBehavior(QAbstractItemView.SelectRows)
         self.device_table.setEditTriggers(QAbstractItemView.NoEditTriggers)
+        self.device_table.setAlternatingRowColors(True)
         self.device_table.itemSelectionChanged.connect(self.device_selected)
         header_dispositivi = self.device_table.horizontalHeader()
         header_dispositivi.setSectionResizeMode(0, QHeaderView.ResizeMode.Interactive)
@@ -369,7 +372,7 @@ class DbManagerDialog(QDialog):
         header_dispositivi.setSectionResizeMode(4, QHeaderView.ResizeMode.Stretch)
         header_dispositivi.setSectionResizeMode(5, QHeaderView.ResizeMode.ResizeToContents)
         header_dispositivi.setSectionResizeMode(6, QHeaderView.ResizeMode.ResizeToContents)
-
+        
         dev_buttons_layout, buttons = self.create_buttons("Aggiungi Dispositivo", "Modifica Dispositivo", "Elimina Dispositivo", self.add_device, self.edit_device, self.delete_device)
         self.add_dev_btn, self.edit_dev_btn, self.del_dev_btn = buttons
         dev_layout.addWidget(self.device_search_box)
@@ -378,13 +381,14 @@ class DbManagerDialog(QDialog):
         self.devices_group.setLayout(dev_layout)
         top_layout.addWidget(self.devices_group, 2)
         main_layout.addLayout(top_layout)
-
+        
         self.verifications_group = QGroupBox("Storico Verifiche")
         verif_layout = QVBoxLayout()
         self.verifications_table = QTableWidget(0, 3)
         self.verifications_table.setHorizontalHeaderLabels(["ID", "Data", "Esito Globale"])
         self.verifications_table.setSelectionBehavior(QAbstractItemView.SelectRows)
         self.verifications_table.setEditTriggers(QAbstractItemView.NoEditTriggers)
+        self.verifications_table.setAlternatingRowColors(True)
         verif_buttons_layout = QHBoxLayout()
         self.view_verif_btn = QPushButton("Visualizza Dettagli")
         self.view_verif_btn.setIcon(QApplication.style().standardIcon(QStyle.SP_FileDialogInfoView))
