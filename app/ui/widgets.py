@@ -33,16 +33,18 @@ class TestRunnerWidget(QWidget):
         layout = QVBoxLayout(self)
         test_group = QGroupBox(f"Verifica su: {device_info['description']} (S/N: {device_info['serial_number']})")
         test_layout = QVBoxLayout()
-        self.test_name_label = QLabel("Inizio verifica...", font=QFont("Arial", 12, QFont.Bold))
+        self.test_name_label = QLabel("Inizio verifica...")
+        self.test_name_label.setStyleSheet("font-size: 14pt; font-weight: 700;")
         self.limit_label = QLabel("Limite:")
         self.value_input = QLineEdit()
         self.next_button = QPushButton("Avanti")
         
         self.next_button.clicked.connect(self.next_step)
         self.value_input.returnPressed.connect(self.next_step)
-
+        
         self.results_table = QTableWidget(0, 4)
         self.results_table.setHorizontalHeaderLabels(["Test / P.A.", "Limite", "Valore", "Esito"])
+        self.results_table.setAlternatingRowColors(True)
         
         test_layout.addWidget(self.test_name_label); test_layout.addWidget(self.limit_label)
         test_layout.addWidget(self.value_input); test_layout.addWidget(self.next_button)
